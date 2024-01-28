@@ -1,5 +1,13 @@
 /*
 2. WAP to add two distances using binary plus (+) operator overloading.
+
+Enter the first distance:
+Enter feet: 1
+Enter inches: 36
+Enter the second distance:
+Enter feet: 1
+Enter inches: 45
+Total distance: 3 feet 69 inches
 */
 
 #include <iostream>
